@@ -1,0 +1,7 @@
+require_relative 'model.rb'
+require_relative '../questionsdb.rb'
+require_relative 'question_like.rb'
+require_relative 'question.rb'
+require_relative 'user.rb'
+require_relative 'reply.rb'
+require_relative 'question_follower.rb'
